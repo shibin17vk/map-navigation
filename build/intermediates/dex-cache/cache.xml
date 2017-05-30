@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/vivekkaruppanaraj/Desktop/RapidBikes_Assignment/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="09486c49926ac7760f2d8e8f97cebd689d05835c">
+        <dex dex="/Users/vivekkaruppanaraj/Desktop/RapidBikes_Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7edcd80a77e8df70dd1707b0627ee9c97bff94c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivekkaruppanaraj/Desktop/RapidBikes_Assignment/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/vivekkaruppanaraj/Desktop/RapidBikes_Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4a286a3b0ecd45f5b9fa4d2fd5403ad45c66190f/classes.dex" />
+    </item>
+
+</items>
